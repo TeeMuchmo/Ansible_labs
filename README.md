@@ -1,2 +1,3 @@
 # Ansible_labs
-Building foundation on Ansible.
+
+Building foundation on Ansible is awesome!
